@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedahsanali" alt="mohammedahsanali" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mohammedahsana7" target="blank"><img src="https://img.shields.io/twitter/follow/mohammedahsana7?logo=twitter&style=for-the-badge" alt="mohammedahsana7" /></a> </p>
-
 - 🌱 I’m currently learning **Azure Cloud Services.**
 
 - 💬 Ask me about **Machine Learning.**
